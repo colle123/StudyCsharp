@@ -9,7 +9,7 @@ namespace Question5
     class Question5
     {
         static void Main(string[] args)
-        {
+        {   
             {
                 int i;
                 double x;
